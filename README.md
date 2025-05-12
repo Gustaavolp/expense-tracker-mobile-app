@@ -1,4 +1,4 @@
-# Expense Tracker - Aplicativo de Controle de Gastos
+# Aplicativo de Controle de Gastos - M1
 
 Um aplicativo mobile criado com React Native e Expo para controle de gastos pessoais.
 
